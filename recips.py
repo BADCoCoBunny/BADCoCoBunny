@@ -1,0 +1,1 @@
+print("Receta para preparar ajiaco...")
