@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BADCoCoBuny
+- 👋 Hi, I’m @BADCoCoBunny
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on any software devolop to learn.
