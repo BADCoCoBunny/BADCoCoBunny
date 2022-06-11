@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BADCoCoBunny
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning Java, Python and front-end development.
 - 💞️ I’m looking to collaborate on any software devolop to learn.
 - 📫 How to reach me: through email gracebradlol@gmail.com.
 
